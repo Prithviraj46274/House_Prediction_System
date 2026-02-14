@@ -11,12 +11,12 @@ Process :
 
 How to run :
 
-1. Clone the repository
-git clone https://github.com/your-username/house-price-prediction-streamlit.git
+1. Clone the repository: 
+git clone https://github.com/your-username/house-price-prediction-streamlit.git , 
 cd house-price-prediction-streamlit
 
-2. Install dependencies
+2. Install dependencies: 
 pip install streamlit numpy pandas scikit-learn plotly
 
-3. Run the Streamlit app
+3. Run the Streamlit app: 
 streamlit run app.py
